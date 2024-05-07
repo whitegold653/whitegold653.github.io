@@ -1,8 +1,0 @@
-inimal_mistakes_skin    : "default"  # 전체적인 블로그의 색감을 정하는 값입니다.
-                           # "default" "air", "aqua", "contrast", "dark"
-                           # "dirt", "neon", "mint", "plum", "sunrise"
-
-# Site Settings
-title                    : "코드라이트"  # 사이트 탭에서 보이는 이름입니다.
-description              : "테스트"   # 설명란입니다. (어디 적용되는지 모르겠네요...) 
-masthead_title           : "코드라이트(제목)"     # 화면 title 입니다.
